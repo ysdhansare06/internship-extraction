@@ -1,5 +1,5 @@
 # internship-extraction
-Web scraping internships from 'internshala.com' and converting to csv
+Web scraping internships from 'internshala.com' and converting to csv file.
 
-Get all the Data Science internships in a csv file by web-scraping "internshala.com"
+Convert all the available Data Science internships from "internshala.com" into a csv file, to compare and analyze internships and to make better decisions. 
 
